@@ -1,18 +1,14 @@
 from fastapi import FastAPI
+from . import models, schemas
+from .database import engine
 
-from pydantic import BaseModel
+models.Base.metadata.create_all(engine)
 
 app=FastAPI()
 
 
-class Blog(BaseModel):
-    title:str
-    body: str
-
-
-
 @app.post('/blog')
-def create(request: Blog):
+def create(request: schemas.Blog):
     return request
 
 

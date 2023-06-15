@@ -54,7 +54,33 @@ To run this project locally, follow these steps:
     uvicorn main:app --reload
     ```
 
-8. The blog platform should now be accessible at http://localhost:8000.
+The blog platform should now be accessible at http://localhost:8000.
+
+## API Documentation
+
+The API documentation is automatically generated and provided by FastAPI. Once the development server is running, you can access the documentation at `http://localhost:8000/docs` in your web browser.
+
+## Contributing
+
+Please refer the CONTRIBUTION.md file for more detail or steps.
+
+Please ensure that your code follows the project's coding style and that appropriate tests are included.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+
+## Contact
+
+For any inquiries or questions, you can reach out to the project maintainer:
+
+- Abinash Bordoloi
+- GitHub: abinashbordoloi(https://github.com/abinashbordoloi)
+- Email: iteratex.pseudocode@gmail.com(mailto:your-email@example.com)
+
+
+
+
 
 
 

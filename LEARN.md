@@ -36,5 +36,5 @@ This project is licensed under the MIT License. For more information, see the [L
 If you have any questions or need further assistance, feel free to contact the project maintainer:
 
 - Abinash Bordoloi
-- GitHub: abinashbordoloi(https://github.com/abinashbordoloi)
-- Email: iteratex.pseudocode@gmail.com(mailto:your-email@example.com)
+- GitHub: [abinashbordoloi](https://github.com/abinashbordoloi)
+- Email: [emailme](mailto:iteratex.pseudocode@example.com)

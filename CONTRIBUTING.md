@@ -15,6 +15,9 @@ There are several ways you can contribute to the project:
 ## Code Contribution Guidelines
 
 1. Fork the repository and clone it locally.
+```bash
+git clone 
+```
 
 2. Create a new branch for your contribution:
 

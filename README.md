@@ -62,7 +62,7 @@ The API documentation is automatically generated and provided by FastAPI. Once t
 
 ## Contributing
 
-Please refer the CONTRIBUTION.md file for more detail or steps.
+Please refer the [CONTRIBUTION.md](CONTRIBUTION.md) file for more detail or steps.
 
 Please ensure that your code follows the project's coding style and that appropriate tests are included.
 
@@ -76,7 +76,7 @@ For any inquiries or questions, you can reach out to the project maintainer:
 
 - Abinash Bordoloi
 - GitHub: abinashbordoloi(https://github.com/abinashbordoloi)
-- Email: iteratex.pseudocode@gmail.com(mailto:your-email@example.com)
+- Email:emailme(mailto:iteratex.pseudocode@gmail.com)
 
 
 

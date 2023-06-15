@@ -16,7 +16,7 @@ There are several ways you can contribute to the project:
 
 1. Fork the repository and clone it locally.
 ```bash
-git clone 
+git clone https://github.com/abinashbordoloi/Blog_Platform-using-FastAPI.git
 ```
 
 2. Create a new branch for your contribution:
